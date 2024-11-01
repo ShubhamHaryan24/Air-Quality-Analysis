@@ -90,3 +90,9 @@ Health Risk Awareness: The dashboard can educate users about the health effects 
 Actionable Recommendations: Pollutant levels with recommended actions from the health impact table, users can receive advice based on current air quality, enhancing community awareness and safety. 
 
 For the PM10 pollutant, the health effects include eye irritation and respiratory issues, both of which can be significant concerns. The recommendations to mitigate these effects include using air purifiers indoors to reduce eye irritation and limiting outdoor activities during high pollution levels to address respiratory issues.
+
+---
+
+**Conclusion**
+
+The data highlights the critical need for continuous monitoring and proactive strategies to enhance air quality and protect public health in both Bangalore and Chennai.
